@@ -10,7 +10,7 @@ DHT dht(DHTPIN, DHTTYPE);
 const char* ssid     = "your_ssid";
 const char* password = "your_password";
 const char* host = "your_hostname";
-
+// water flow senseor
 
 void setup()
 {
