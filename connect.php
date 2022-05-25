@@ -2,6 +2,7 @@
 <body>
 
 <?php
+	//for water flow sensor
 
 $dbname = 'example';
 $dbuser = 'root';  
